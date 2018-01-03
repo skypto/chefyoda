@@ -4,7 +4,7 @@
 This website is a experimental bootstrap 4 project for a creating a themed single Page website for a cooking class.
 
 You can preview the working version of this project using this link: 
-#[Chef Yoda Live Demo](http://www.google.com)
+[Chef Yoda Live Demo](http://www.google.com)
 
 
 # Technologies Used
