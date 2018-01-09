@@ -20,3 +20,24 @@ body {
     left: 0;
     width: 100%;
     height: 100%; }
+
+.info-header {
+  width: 50%;
+  margin: auto;
+  border-bottom: 1px #ddd solid; }
+
+#cooks img {
+  margin-top: -50px; }
+
+#cooks .fa {
+  font-size: 25px; }
+
+#cooks .card:hover {
+  background: #3292a6;
+  color: #fff; }
+  #cooks .card:hover .fa {
+    color: #fff; }
+
+@media (max-width: 576px) {
+  nav .container {
+    width: 100%; } }
